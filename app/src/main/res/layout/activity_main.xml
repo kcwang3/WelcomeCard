@@ -34,5 +34,5 @@
         android:layout_height="wrap_content"
         android:layout_toRightOf="@id/Taipei101"
         />
-    
+
 </RelativeLayout>
